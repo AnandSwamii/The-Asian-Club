@@ -185,6 +185,8 @@ form {
 {
  color: white;
   margin-left: unset;
+  margin-right: 35px;
+  text-align: justify;
 }
 .text h1 strong
 {
@@ -286,6 +288,7 @@ border-bottom: 1px solid black;
 
     display: flex;
     flex-wrap: wrap;
+    /* margin: 60px; */
 }
 .pic
 {
@@ -1016,6 +1019,8 @@ form {
 {
  color: white;
   margin-left: unset;
+  margin-right: 35px;
+  text-align: justify;
 }
 .text h1 strong
 {
